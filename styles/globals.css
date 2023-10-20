@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input{
+    background: transparent;
+    outline: none;
+    font-size: 18px;
+}
+.btn-connect button{
+    background: #18c964 !important; 
+    color: #000 !important;
+    font-weight: 400 !important;
+}
